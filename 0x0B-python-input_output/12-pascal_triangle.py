@@ -1,4 +1,4 @@
-#!/usr/b/pyhton3
+#!/usr/bin/pyhton3
 """Defines a Pascal's Triangle function."""
 
 
